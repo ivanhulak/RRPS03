@@ -9,8 +9,8 @@
 - Singleton;
 - Factory method;
 - Observer;
-- ;
-- ;
+- prototype;
+- state;
 
 Виконав студент **_*Гулак І.В.*_** групи:
 
